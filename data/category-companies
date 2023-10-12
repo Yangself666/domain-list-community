@@ -13,12 +13,15 @@ include:autodesk
 include:bandwagonhost
 include:blurams
 include:canon
+include:chegg
 include:cisco
 include:cloudcone
 include:collabora
 include:dell
 include:digitalocean
+include:duolingo
 include:faronics
+include:giffgaff
 include:gigabyte
 include:godaddy
 include:google
@@ -28,12 +31,15 @@ include:hkbn
 include:hp
 include:hubblephone
 include:ibm
+include:inshot
 include:intel
+include:kakao
 include:lg
 include:logitech
 include:mailru
 include:meta
 include:microsoft
+include:mikrotik
 include:mindgeek
 include:mozilla
 include:musixmatch
@@ -45,6 +51,7 @@ include:openweather
 include:oracle
 include:panasonic
 include:pccw
+include:qnap
 include:qualcomm
 include:qwant
 include:razer
@@ -67,4 +74,5 @@ include:yandex
 # Remote Control
 include:category-remote-control
 
+auth0.com
 porkbun.com

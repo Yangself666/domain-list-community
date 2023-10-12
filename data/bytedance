@@ -1,8 +1,13 @@
 include:bcy
+include:fqnovel
 include:juejin
 include:lark
 include:tiktok
+include:bytedance-ads
 
+volcvod.com
+volces.com
+volceapplog.com
 amemv.com
 bytecdn.cn
 byted-static.com
@@ -10,6 +15,7 @@ byted.org
 bytedance.com
 bytedance.net
 bytedanceapi.com
+bytedapm.com
 bytedns.net
 bytednsdoc.com
 bytedns1.com
@@ -19,6 +25,7 @@ bytegoofy.com
 bytegslb.com
 bytehwm.com
 byteimg.com
+byteintl.net
 bytelb.net
 byteoversea.com @!cn
 bytescm.com
@@ -107,10 +114,6 @@ gogokid.com
 
 # 皮皮虾
 pipix.com
-
-# 番茄小说
-muyewx.com
-changdunovel.com
 
 # faceu
 faceu.com
